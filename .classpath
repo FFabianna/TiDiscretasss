@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Discreet-Guys-Inc/src"/>
+	<classpathentry kind="src" path="Discreet-Guys-Inc/test"/>
+	<classpathentry kind="lib" path="Discreet-Guys-Inc/out/artifacts/app/Discreet Guys Inc.jar"/>
+	<classpathentry kind="output" path="Discreet-Guys-Inc/bin"/>
+</classpath>

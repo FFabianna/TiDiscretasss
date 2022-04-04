@@ -1,0 +1,30 @@
+4
+A 5 3 2
+Daniel 2 2
+Camilo 2 3
+Jhorman 1 4
+Esteban 3 5
+Paula 1 1
+
+B 10 4 4
+Jacobo 1 2
+Luis 2 3
+Laura 4 4
+Valeria 4 5
+Nicolas 2 6
+Ana 2 7
+Diana 1 8
+Veronica 2 9
+Violeta 3 10
+Gloria 3 1
+
+C 4 2 1
+Samuel 1 2
+Juan 1 3
+Alex 2 4
+Martin 2 1
+
+D 3 5 2
+Maria 1 2
+Jesus 1 3
+Daniela 5 1
